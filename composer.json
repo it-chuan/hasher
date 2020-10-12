@@ -1,0 +1,18 @@
+{
+    "name": "itchuan/hasher",
+    "description": "MD5 support in laravel",
+    "license": "Itchuan",
+    "authors": [
+        {
+            "name": "it-chuan",
+            "email": "qsnbdabc@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Itchuan\\Hasher\\": "src/"
+        }
+    }
+}
