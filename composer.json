@@ -1,7 +1,7 @@
 {
     "name": "itchuan/hasher",
     "description": "MD5 support in laravel",
-    "license": "Itchuan",
+    "license": "MIT",
     "authors": [
         {
             "name": "it-chuan",
